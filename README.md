@@ -1,0 +1,1 @@
+This is a Sudoku Board Generator and Solver for either players to play or showcase the back-tracking algorithm to solve a given Sudoku Problem
